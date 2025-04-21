@@ -1,0 +1,30 @@
+1.Which of these in not a core data type? 
+a) Lists 
+b) Dictionary 
+c) Tuples 
+d) Class
+d) Class
+2. Given a function that does not return any value, What value is thrown by default when executed in shell.
+a) int
+b) bool
+c) void
+d) None
+d) None
+3.Following set of commands are executed in shell, what will be the output? if >>>str="hello" then >>>str[:2] is
+a) he
+b) lo
+c) olleh
+d) hello
+a) he
+4.In python we do not specify types,it is directly interpreted by the compiler, so consider the following operation to be performed.>>>x = 13 ? 2 objective is to make sure x has a integer value, select all that apply (python 3.xx)
+a) x = 13 // 2
+b) x = int(13 / 2)
+c) x = 13 % 2
+d) All of the mentioned
+d) All of the mentioned
+5.What error occurs when you execute? apple = mango
+a) SyntaxError
+b) NameError
+c) ValueError
+d) TypeError
+b) NameError

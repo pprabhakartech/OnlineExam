@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Exam System</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            color: #333;
+        }
+        
+        .container {
+            text-align: center;
+            background-color: white;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            width: 80%;
+            max-width: 600px;
+        }
+        
+        h1 {
+            color: #2c3e50;
+            margin-bottom: 30px;
+        }
+        
+        .logo {
+            width: 100px;
+            margin-bottom: 20px;
+        }
+        
+        .role-options {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 40px;
+            flex-wrap: wrap;
+        }
+        
+        .role-card {
+            background-color: #f8f9fa;
+            padding: 25px;
+            border-radius: 8px;
+            width: 200px;
+            margin: 10px;
+            transition: transform 0.3s, box-shadow 0.3s;
+            cursor: pointer;
+        }
+        
+        .role-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+        }
+        
+        .student-card {
+            border-top: 4px solid #3498db;
+        }
+        
+        .admin-card {
+            border-top: 4px solid #e74c3c;
+        }
+        
+        .role-icon {
+            font-size: 40px;
+            margin-bottom: 15px;
+        }
+        
+        .student-icon {
+            color: #3498db;
+        }
+        
+        .admin-icon {
+            color: #e74c3c;
+        }
+        
+        .role-title {
+            font-weight: 600;
+            margin-bottom: 10px;
+            font-size: 18px;
+        }
+        
+        .role-description {
+            font-size: 14px;
+            color: #666;
+            margin-bottom: 15px;
+        }
+        
+        .btn {
+            display: inline-block;
+            padding: 8px 20px;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            text-decoration: none;
+            color: #333;
+            font-weight: 500;
+            transition: all 0.3s;
+        }
+        
+        .btn-student {
+            border-color: #3498db;
+            color: #3498db;
+        }
+        
+        .btn-student:hover {
+            background-color: #3498db;
+            color: white;
+        }
+        
+        .btn-admin {
+            border-color: #e74c3c;
+            color: #e74c3c;
+        }
+        
+        .btn-admin:hover {
+            background-color: #e74c3c;
+            color: white;
+        }
+        
+        footer {
+            margin-top: 40px;
+            font-size: 12px;
+            color: #999;
+        }
+    </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <img src="https://5.imimg.com/data5/HL/ZK/ON/SELLER-11845697/online-mcq-exam-software-500x500.png" alt="Exam System Logo" class="logo">
+        <h1>Online Examination System</h1>
+        <p>Welcome to our online examination platform. Please select your role to continue.</p>
+        
+        <div class="role-options">
+            <div class="role-card student-card">
+                <div class="role-icon student-icon">
+                    <i class="fas fa-user-graduate"></i>
+                </div>
+                <div class="role-title">Student</div>
+                <div class="role-description">
+                    Take exams, view results, and track your progress.
+                </div>
+                <a href="student\exam.php" class="btn btn-student">Enter as Student</a>
+            </div>
+            
+            <div class="role-card admin-card">
+                <div class="role-icon admin-icon">
+                    <i class="fas fa-user-shield"></i>
+                </div>
+                <div class="role-title">Administrator</div>
+                <div class="role-description">
+                    Manage exams, questions, and student records.
+                </div>
+                <a href="Admin\index.php" class="btn btn-admin">Enter as Admin</a>
+            </div>
+        </div>
+        
+        <footer>
+            &copy; 2023 Online Examination System. All rights reserved.
+        </footer>
+    </div>
+</body>
+</html>

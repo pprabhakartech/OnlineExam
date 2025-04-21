@@ -1,0 +1,707 @@
+1.What is Tally Prime?
+a) A gaming software
+b) An accounting software
+c) A video editing software
+d) A web development tool
+b) An accounting software
+
+2.Which company developed Tally Prime?
+a) Microsoft
+b) Infosys
+c) Tally Solutions
+d) IBM
+c) Tally Solutions
+
+3.Tally Prime is mainly used for:
+a) Graphic designing
+b) Web development
+c) Accounting and business management
+d) Video editing
+c) Accounting and business management
+
+4.What is the default ledger available in Tally Prime?
+a) Cash
+b) Sales
+c) Capital
+d) Bank Account
+a) Cash
+
+5.Which shortcut key is used to create a new company in Tally Prime?
+a) Alt + F4
+b) Alt + F3
+c) Ctrl + N
+d) Shift + C
+b) Alt + F3
+
+6.Which of the following is NOT a feature of Tally Prime?
+a) Inventory management
+b) GST compliance
+c) Website designing
+d) Financial reporting
+c) Website designing
+
+7.Which menu in Tally Prime is used for voucher entry?
+a) Accounting Vouchers
+b) Inventory Vouchers
+c) Payroll Vouchers
+d) GST Reports
+a) Accounting Vouchers
+
+8.What is the shortcut key to open the Company Features menu in Tally Prime?
+a) F11
+b) F9
+c) F1
+d) Ctrl + F11
+a) F11
+
+9.Which of the following vouchers is used to record cash payments in Tally Prime?
+a) Receipt Voucher
+b) Payment Voucher
+c) Sales Voucher
+d) Journal Voucher
+b) Payment Voucher
+
+10.Which report in Tally Prime provides an overview of the company s financial position?
+a) Balance Sheet
+b) Stock Summary
+c) GST Reports
+d) Payroll Reports
+a) Balance Sheet
+
+11.Which shortcut key is used to enter a Payment Voucher in Tally Prime?
+a) F4
+b) F5
+c) F6
+d) F7
+a) F4
+12.Which voucher is used to record cash receipts in Tally Prime?
+a) Payment Voucher
+b) Contra Voucher
+c) Receipt Voucher
+d) Journal Voucher
+c) Receipt Voucher
+
+13.Which shortcut key is used to record a Sales Voucher in Tally Prime?
+a) F6
+b) F7
+c) F8
+d) F9
+c) F8
+
+14.A Contra Voucher is used for which type of transactions?
+a) Cash to Bank & Bank to Cash
+b) Credit Sales
+c) Purchase Returns
+d) Depreciation Adjustments
+a) Cash to Bank & Bank to Cash
+15.Which shortcut key is used to record a Journal Voucher in Tally Prime?
+a) F5
+b) F6
+c) F7
+d) F9
+c) F7
+
+16.Which type of voucher is used for making adjustments between accounts without involving cash or bank?
+a) Contra Voucher
+b) Journal Voucher
+c) Purchase Voucher
+d) Payment Voucher
+b) Journal Voucher
+
+17.What is the shortcut key to record a Purchase Voucher in Tally Prime?
+a) F7
+b) F8
+c) F9
+d) F10
+c) F9
+
+18.Which of the following is NOT a predefined voucher type in Tally Prime?
+a) Payment Voucher
+b) Memorandum Voucher
+c) Reversal Voucher
+d) Sales Voucher
+c) Reversal Voucher
+
+19.Which type of voucher is used to transfer funds from one bank account to another?
+a) Payment Voucher
+b) Receipt Voucher
+c) Contra Voucher
+d) Journal Voucher
+c) Contra Voucher
+
+20.Which voucher type is used to record expenses such as rent, salaries, and electricity bills?
+a) Purchase Voucher
+b) Journal Voucher
+c) Payment Voucher
+d) Contra Voucher
+c) Payment Voucher
+
+21.Which feature in Tally Prime is used to manage stock and inventory?
+a) Accounting Features
+b) Inventory Features
+c) Payroll Features
+d) GST Features
+b) Inventory Features
+
+22.Which shortcut key is used to open Inventory Vouchers in Tally Prime?
+a) F10
+b) F9
+c) F11
+d) F12
+b) F9
+
+23.What is the primary unit used to measure stock in Tally Prime?
+a) Quantity
+b) UOM (Unit of Measurement)
+c) Weight
+d) Pieces
+b) UOM (Unit of Measurement)
+
+24.Which inventory voucher is used to record stock transfers between warehouses?
+a) Receipt Voucher
+b) Stock Journal Voucher
+c) Delivery Note
+d) Rejection Out
+b) Stock Journal Voucher
+
+25.Which of the following is NOT an inventory voucher in Tally Prime?
+a) Purchase Order
+b) Sales Order
+c) Payroll Voucher
+d) Delivery Note
+c) Payroll Voucher
+
+26.Which report helps in checking available stock in Tally Prime?
+a) Stock Summary
+b) Balance Sheet
+c) Trial Balance
+d) Day Book
+a) Stock Summary
+
+27.Which voucher is used when goods are returned by a customer?
+a) Purchase Voucher
+b) Sales Return (Credit Note)
+c) Delivery Note
+d) Receipt Voucher
+b) Sales Return (Credit Note)
+
+28.Which of the following options allows you to categorize inventory in Tally Prime?
+a) Stock Items
+b) Stock Groups
+c) Stock Categories
+d) All of the above
+d) All of the above
+
+29.What is the purpose of the Bill of Materials (BOM) in Tally Prime?
+a) To manage payroll
+b) To track GST
+c) To define raw materials required for manufacturing a product
+d) To record sales invoices
+c) To define raw materials required for manufacturing a product
+
+
+30.Which feature in Tally Prime is used for Order Processing?
+a) Payroll Management
+b) Inventory Management
+c) Order Management
+d) Cost Center Management
+c) Order Management
+
+31.Which voucher is used to record a customer order in Tally Prime?
+a) Purchase Order
+b) Sales Order
+c) Receipt Note
+d) Journal Voucher
+b) Sales Order
+
+32.Which shortcut key is used to create a Sales Order in Tally Prime?
+a) Alt + F5
+b) Alt + F6
+c) Alt + F7
+d) Ctrl + F8
+d) Ctrl + F8
+
+33.Which voucher is used to record a purchase order given to a supplier?
+a) Payment Voucher
+b) Purchase Order
+c) Contra Voucher
+d) Sales Voucher
+b) Purchase Order
+
+34.Which shortcut key is used to create a Purchase Order in Tally Prime?
+a) Alt + F4
+b) Alt + F6
+c) Ctrl + F9
+d) Alt + F9
+c) Ctrl + F9
+
+34.Which report helps track pending Sales Orders in Tally Prime?
+a) Sales Order Book
+b) Stock Summary
+c) Day Book
+d) Balance Sheet
+a) Sales Order Book
+
+35.What is the purpose of the  Delivery Note  in Tally Prime?
+a) To record cash payments
+b) To track goods delivered to customers
+c) To generate payroll reports
+d) To manage GST calculations
+b) To track goods delivered to customers
+
+36.Which voucher is used to record the receipt of goods from a supplier against a Purchase Order?
+a) Receipt Voucher
+b) Payment Voucher
+c) Receipt Note
+d) Sales Order
+c) Receipt Note
+
+37.Which option in Tally Prime allows tracking of orders fulfilled and pending?
+a) Trial Balance
+b) Order Summary Report
+c) Profit & Loss Account
+d) Payroll Summary
+b) Order Summary Report
+
+38.What happens when a Sales Order is converted into a Sales Invoice?
+a) The order is automatically closed
+b) The order remains open
+c) The stock balance remains unchanged
+d) The supplier is notified
+a) The order is automatically closed
+
+39.Which feature in Tally Prime is used to manage employee salaries?
+a) Inventory Management
+b) Payroll Management
+c) Order Processing
+d) Cost Center Management
+b) Payroll Management
+
+40.Which shortcut key is used to enable Payroll in Tally Prime?
+a) F11 (Features) ? Enable Payroll
+b) F12 (Configuration) ? Enable Payroll
+c) Alt + F3 ? Enable Payroll
+d) Ctrl + F9 ? Enable Payroll
+a) F11 (Features) ? Enable Payroll
+
+41.Which of the following is NOT a payroll component in Tally Prime?
+a) Earnings
+b) Deductions
+c) GST
+d) Attendance
+c) GST
+
+42.Which payroll feature is used to record employee attendance in Tally Prime?
+a) Payroll Voucher
+b) Attendance Voucher
+c) Journal Voucher
+d) Payment Voucher
+b) Attendance Voucher
+
+43.Which shortcut key is used to enter a Payroll Voucher in Tally Prime?
+a) Ctrl + F4
+b) Alt + F5
+c) Alt + F7
+d) Alt + F9
+a) Ctrl + F4
+
+44.Which report in Tally Prime provides an overview of salary payments?
+a) Trial Balance
+b) Payroll Statement
+c) Stock Summary
+d) Day Book
+b) Payroll Statement
+
+45.Which payroll component includes Basic Pay, House Rent Allowance, and Dearness Allowance?
+a) Earnings
+b) Deductions
+c) Provident Fund
+d) Professional Tax
+a) Earnings
+
+46.Which of the following is a statutory deduction in Payroll Processing?
+a) Provident Fund (PF)
+b) Dearness Allowance (DA)
+c) Overtime Pay
+d) Bonus
+a) Provident Fund (PF)
+
+47.Which feature in Payroll is used to calculate taxes and deductions automatically?
+a) Payroll Auto Compute
+b) Payroll Configuration
+c) Payroll Processing
+d) Payroll Statutory Compliance
+d) Payroll Statutory Compliance
+
+48.What is the purpose of the Employee Master in Tally Prime?
+a) To store employee details like name, salary, and department
+b) To manage stock and inventory
+c) To record supplier transactions
+d) To track sales orders
+a) To store employee details like name, salary, and department
+
+49.What is the purpose of Quantity Discount in Tally Prime?
+a) To provide a discount based on the number of units purchased
+b) To calculate GST on sales
+c) To manage employee salaries
+d) To create financial reports
+a) To provide a discount based on the number of units purchased
+
+50.Where can you configure Quantity Discounts in Tally Prime?
+a) Stock Item Master
+b) Ledger Master
+c) Cost Category
+d) Payroll Features
+a) Stock Item Master
+
+51.Which type of discount is applied when a buyer purchases goods in bulk?
+a) Trade Discount
+b) Cash Discount
+c) Quantity Discount
+d) Seasonal Discount
+c) Quantity Discount
+
+52.Which menu in Tally Prime allows you to define Quantity Discounts?
+a) Inventory Info
+b) Accounting Info
+c) Payroll Info
+d) Banking Info
+a) Inventory Info
+
+53.In Tally Prime, Quantity Discount is applied based on:
+a) Number of items purchased
+b) Invoice amount
+c) Customer type
+d) Tax category
+a) Number of items purchased
+
+54.Which feature in Tally Prime allows automatic discount calculations?
+a) Price Levels
+b) Cost Centers
+c) Voucher Type Configuration
+d) Budgeting
+a) Price Levels
+
+55.How can a Quantity Discount be viewed in Tally Prime reports?
+a) Stock Summary
+b) Sales Register
+c) Discount Report
+d) All of the above
+d) All of the above
+
+56.Which option in Tally Prime helps set different discounts for different customers?
+a) Price List
+b) Cost Category
+c) Payroll Processing
+d) Budgeting
+a) Price List
+
+57.Can Quantity Discounts in Tally Prime be applied automatically while making an invoice?
+a) Yes
+b) No
+c) Discount Report
+d) Budgeting
+a) Yes
+
+58.What happens if a Quantity Discount is enabled in Tally Prime?
+a) The discount is applied automatically based on quantity purchased
+b) The user needs to manually enter the discount every time
+c) The stock items are deleted after discount application
+d) The tax amount is doubled
+a) The discount is applied automatically based on quantity purchased
+
+
+59.What is the "Buy 2 Get 1 Free" offer classified as in Tally Prime?
+a) Quantity Discount
+b) Trade Discount
+c) Free Quantity Scheme
+d) Cash Discount
+c) Free Quantity Scheme
+
+60.How can you configure a "Buy 2 Get 1 Free" offer in Tally Prime?
+a) By enabling  Use Separate Actual and Billed Quantity  in Inventory Features
+b) By using Ledger Configuration
+c) By modifying the GST settings
+d) By enabling Payroll Features
+a) By enabling  Use Separate Actual and Billed Quantity  in Inventory Features
+
+61.Which column in the Sales Invoice helps apply the "Buy 2 Get 1 Free" scheme?
+a) Billed Quantity
+b) Actual Quantity
+c) Rate Column
+d) GST Column
+b) Actual Quantity
+
+62.If a customer buys 6 items under a "Buy 2 Get 1 Free" offer, how many items should be billed in Tally Prime?
+a) 6
+b) 4
+c) 3
+d) 5
+b) 4
+
+63.How does Tally Prime treat the free item in financial reports?
+a) As a zero-cost stock adjustment
+b) As additional revenue
+c) As a cash discount
+d) As an expense
+a) As a zero-cost stock adjustment
+
+64.Which voucher type is used to record a sales transaction with a "Buy 2 Get 1 Free" offer?
+a) Purchase Voucher
+b) Sales Voucher
+c) Payment Voucher
+d) Contra Voucher
+b) Sales Voucher
+
+65.Can the "Buy 2 Get 1 Free" offer be applied automatically in Tally Prime invoices?
+a) Yes
+b) No
+c) Payment Voucher
+d) As an expense
+a) Yes
+
+66.What needs to be configured in Tally Prime to reflect free quantity in reports?
+a) Stock Item Master
+b) Cost Category
+c) GST Ledger
+d) Banking Features
+a) Stock Item Master
+
+67.Which report helps track free quantity stock given under promotional offers in Tally Prime?
+a) Stock Summary
+b) Sales Order Book
+c) Day Book
+d) Balance Sheet
+a) Stock Summary
+
+68.If a business offers "Buy 2 Get 1 Free," what is the total actual quantity recorded in Tally Prime when a customer purchases 10 items?
+a) 10
+b) 15
+c) 12
+d) 20
+b) 15
+
+69.Which shortcut key is used to enable GST in Tally Prime?
+a) F11 (Features) ? Enable GST
+b) F12 (Configuration) ? Enable GST
+c) Alt + F3 ? Enable GST
+d) Ctrl + F9 ? Enable GST
+a) F11 (Features) ? Enable GST
+
+70.Which ledger type is used to create GST ledgers in Tally Prime?
+a) Sales Ledger
+b) Purchase Ledger
+c) Duties & Taxes Ledger
+d) Expense Ledger
+c) Duties & Taxes Ledger
+
+71.What is the shortcut key to open the GST Reports in Tally Prime?
+a) Alt + G
+b) Alt + F12
+c) G (Go To) ? GST Reports
+d) F2
+c) G (Go To) ? GST Reports
+
+72.Which GST voucher type is used for recording outward supply of goods?
+a) Purchase Voucher
+b) Sales Voucher
+c) Journal Voucher
+d) Payment Voucher
+b) Sales Voucher
+
+73.What is the shortcut key to create a GST Invoice in Tally Prime?
+a) Alt + F7
+b) Alt + G
+c) Alt + F9
+d) Ctrl + I
+b) Alt + G
+
+74.Which GST tax type is applicable for intra-state transactions?
+a) IGST
+b) CGST & SGST
+c) Cess
+d) None of the above
+b) CGST & SGST
+
+75.Which tax is applied on inter-state sales under GST?
+a) CGST
+b) SGST
+c) IGST
+d) VAT
+c) IGST
+
+76.How can GST tax rates be set for stock items in Tally Prime?
+a) Under GST Ledger
+b) Under Stock Item Master
+c) Under Employee Ledger
+d) Under Receipt Voucher
+b) Under Stock Item Master
+
+77.Which report in Tally Prime is used to check pending GST liabilities?
+a) Trial Balance
+b) GSTR-1
+c) GSTR-2A
+d) Day Book
+b) GSTR-1
+
+78.Which GST return is used to report outward supplies?
+a) GSTR-1
+b) GSTR-2B
+c) GSTR-3B
+d) GSTR-9
+a) GSTR-1
+
+79.What is the full form of HSN in GST?
+a) Harmonized System of Numbers
+b) Harmonized Sales Number
+c) Harmonized System of Nomenclature
+d) High Sales Number
+c) Harmonized System of Nomenclature
+
+80.Which voucher type is used to adjust GST Input and Output tax liability?
+a) Payment Voucher
+b) Journal Voucher
+c) Contra Voucher
+d) Receipt Voucher
+b) Journal Voucher
+
+81.Which menu in Tally Prime allows users to generate GST returns?
+a) Accounting Info
+b) Inventory Info
+c) GST Reports
+d) Payroll Info
+c) GST Reports
+
+82.Which option needs to be enabled for GST calculations in an invoice?
+a) Enable GST in F11 Features
+b) Enable VAT in Inventory
+c) Activate Payroll Processing
+d) Use Cost Center
+a) Enable GST in F11 Features
+
+83.How does Tally Prime classify GST transactions for filing returns?
+a) Based on GSTIN Number
+b) Based on Ledger Groups
+c) Based on Sales & Purchase Vouchers
+d) Based on GST Configuration
+c) Based on Sales & Purchase Vouchers
+
+84.What is the primary purpose of a Purchase Order (PO) in Tally Prime?
+a) To record customer payments
+b) To track inventory levels
+c) To place an order with a supplier
+d) To calculate taxes
+c) To place an order with a supplier
+
+85.  Which document is generated first in the procurement process: a Purchase Order (PO) or a Purchase Invoice (PI)?
+a) PO
+b) PI
+c) Both are generated simultaneously
+d) It depends on the company's preference
+a) PO
+
+86.  In a Purchase Order, what information is typically included?
+a) Customer details
+b) Supplier details and item quantities
+c) Payment information
+d) Ledger account information
+b) Supplier details and item quantities
+
+87. What is the purpose of specifying the delivery date in a Purchase Order?
+a) To calculate taxes
+b) To inform the supplier about payment terms
+c) To indicate when the goods should be delivered
+d) To record customer payments
+c) To indicate when the goods should be delivered
+
+88.  Which Tally Prime voucher type is used to create a Purchase Order?
+a) Payment Voucher
+b) Receipt Voucher
+c) Purchase Order Voucher
+d) Sales Voucher
+c) Purchase Order Voucher
+
+89. What is the primary purpose of a Sales Order (SO) in Tally Prime?
+a) To place an order with a supplier
+b) To record customer orders
+c) To track inventory levels
+d) To calculate taxes
+b) To record customer orders
+
+90.Which document is generated first in the sales process: a Sales Order (SO) or a Sales Invoice (SI)?
+a) SO
+b) SI
+c) Both are generated simultaneously
+d) It depends on the company's preference
+a) SO
+
+91. In a Sales Order, what information is typically included?
+a) Supplier details
+b) Customer details and item quantities
+c) Payment information
+d) Ledger account information
+b) Customer details and item quantities
+
+92. What is the purpose of specifying the delivery date in a Sales Order?
+a) To calculate taxes
+b) To inform the customer about payment terms
+c) To indicate when the goods should be delivered to the customer
+d) To record supplier payments
+c) To indicate when the goods should be delivered to the customer
+
+93. Which Tally Prime voucher type is used to create a Sales Order?
+a) Payment Voucher
+b) Receipt Voucher
+c) Sales Order Voucher
+d) Purchase Voucher
+c) Sales Order Voucher
+
+94. What is the purpose of linking a Purchase Order to a Sales Order in Tally Prime?
+a) To calculate taxes
+b) To establish a connection between procurement and sales
+c) To create ledger accounts
+d) To track employee payments
+b) To establish a connection between procurement and sales
+
+95.  How can you convert a Purchase Order into a Purchase Invoice in Tally Prime?
+a) It is done automatically by Tally Prime.
+b) By manually entering the same details in a Purchase Invoice.
+c) By deleting the Purchase Order.
+d) By creating a new company.
+b) By manually entering the same details in a Purchase Invoice.
+
+96.  What is the primary purpose of a Sales Order when it comes to managing inventory in Tally Prime?
+a) To record customer payments
+b) To calculate taxes
+c) To reserve stock for future sales
+d) To track supplier payments
+c) To reserve stock for future sales
+
+97.How can you convert a Sales Order into a Sales Invoice in Tally Prime?
+a) It is done automatically by Tally Prime.
+b) By manually entering the same details in a Sales Invoice.
+c) By deleting the Sales Order.
+d) By creating a new company.
+b) By manually entering the same details in a Sales Invoice.
+
+98.  What happens if you cancel a Purchase Order or a Sales Order in Tally Prime?
+a) The order is automatically converted into an invoice.
+b) The order is deleted from the system.
+c) Any reserved stock is made available for other transactions.
+d) Taxes are recalculated.
+c) Any reserved stock is made available for other transactions.
+
+99.  What is the primary purpose of using separate actual and billed quantities in Tally Prime?
+a) To apply different tax rates
+b) To manage promotional offers or free items
+c) To calculate discounts
+d) To handle multiple currencies
+b) To manage promotional offers or free items
+
+100.  In Tally Prime, which feature allows recording different actual and billed quantities?
+a) Batch-wise Details
+b) Price Levels
+c) Separate Actual and Billed Quantity
+d) Multiple Godowns
+c) Separate Actual and Billed Quantity
+

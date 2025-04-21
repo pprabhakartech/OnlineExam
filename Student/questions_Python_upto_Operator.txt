@@ -1,0 +1,420 @@
+1.Which of these in not a core data type? 
+a) Lists 
+b) Dictionary 
+c) Tuples 
+d) Class
+d) Class
+2. Given a function that does not return any value, What value is thrown by default when executed in shell.
+a) int
+b) bool
+c) void
+d) None
+d) None
+3.Following set of commands are executed in shell, what will be the output? if >>>str="hello" then >>>str[:2] is
+a) he
+b) lo
+c) olleh
+d) hello
+a) he
+4.In python we do not specify types,it is directly interpreted by the compiler, so consider the following operation to be performed.>>>x = 13 ? 2 objective is to make sure x has a integer value, select all that apply (python 3.xx)
+a) x = 13 // 2
+b) x = int(13 / 2)
+c) x = 13 % 2
+d) All of the mentioned
+d) All of the mentioned
+5.What error occurs when you execute? apple = mango
+a) SyntaxError
+b) NameError
+c) ValueError
+d) TypeError
+b) NameError
+6.What is the average value of the code that is executed below ?if >>>grade1 = 80 and >>>grade2 = 90 then >>>average = (float(grade1) + grade2) / 4
+a) 42.0
+b) 42.5
+c) 42
+d) 42.50
+b) 42.5
+7.What is the output of print(0.1 + 0.2 == 0.3) and print ((0.1 + 0.2) is 0.3) is ?
+a) True, False
+b) False, False
+c) Machine dependent
+d) Error
+b) False, False
+8.Which of the following is not a complex number?
+a) k = 2 + 3j
+b) k = complex(2, 3)
+c) k = 2 + 3l
+d) k = 2 + 3J
+c) k = 2 + 3l
+9.What does ~~~~~~5 evaluate to?
+a) +5
+b) -11
+c) +11
+d) -5
+a) +5
+10.What is the output when following code is executed ?>>> str1 = 'hello' after that >>> str2 = ',' after that >>> str3 = 'world' and then >>> str1[-1:] 
+a) olleh 
+b) hello 
+c) h 
+d) o
+a) olleh
+11.What is the output when following statement is executed ? >>> print(‘x\97\x98’) 
+a) Error 
+b) 97 98 
+c) x\97 
+d) \x97\x98
+c) x\97
+12.What is the output when following code is executed ? if >>>str1="helloworld" then >>>str1[::-1] 
+a) dlrowolleh 
+b) hello 
+c) world 
+d) helloworld
+a) dlrowolleh
+13.Process of removing errors called 
+a) Error Free 
+b) Debug 
+c) Syntax Error 
+d) Exception
+b) Debug 
+14.Which of the following commands will create a list? 
+a) list1 = list() 
+b) list1 = []. 
+c) list1 = list([1, 2, 3]) 
+d) all of the mentioned
+d) all of the mentioned 
+15.What is the output when we execute list(“hello”)?
+a) [‘h’, ‘e’, ‘l’, ‘l’, ‘o’]. 
+b) [‘hello’]. 
+c) [‘llo’]. 
+d) [‘olleh’].
+a) [‘h’, ‘e’, ‘l’, ‘l’, ‘o’]. 
+16.Suppose list Example is [‘h’,’e’,’l’,’l’,’o’], what is len(list Example)? 
+a) 5 
+b) 4 
+c) None 
+d) Error
+a) 5
+17.Suppose list1 is [1, 3, 2], What is list1 * 2 ? 
+a) [2, 6, 4]. 
+b) [1, 3, 2, 1, 3]. 
+c) [1, 3, 2, 1, 3, 2] . 
+D) [1, 3, 2, 3, 2, 1].
+c) [1, 3, 2, 1, 3, 2] .
+18.What will be the output? d = {"john":40, "peter":45} then d["john"] is
+a) 40 
+b) 45 
+c) “john” 
+d) “peter”
+a) 40
+19.What is the data type of (1)? 
+a) Tuple 
+b) Integer 
+c) List 
+d) Both tuple and integer
+b) Integer
+20.If a=(1,2,3,4), a[1:-1] is 
+a) Error, tuple slicing doesn’t exist 
+b) [2,3]. 
+c) (2,3,4) 
+d) (2,3)
+d) (2,3)
+21.Is the following piece of code valid? >>> a=(1,2,3,4) then >>> del a 
+a) No because tuple is immutable 
+b) Yes, first element in the tuple is deleted 
+c) Yes, the entire tuple is deleted 
+d) No, invalid syntax for del method
+c) Yes, the entire tuple is deleted
+22.Is Python case sensitive when dealing with identifiers? 
+a) no 
+b) yes 
+c) Machine dependent 
+d) None of the mentioned 
+b) yes
+23.What will be the value of the following Python expression? 4 + 3 % 5 
+a) 7 
+b) 2 
+c) 4 
+d) 1 
+a) 7
+24.Which of the following is used to define a block of code in Python language? 
+a) Indentation 
+b) Key 
+c) Brackets 
+d) All of the mentioned 
+a) Indentation
+25.What is the order of precedence in python? 
+a) Exponential, Parentheses, Multiplication, Division, Addition, Subtraction 
+b) Exponential, Parentheses, Division, Multiplication, Addition, Subtraction 
+c) Parentheses, Exponential, Multiplication, Division, Subtraction, Addition 
+d) Parentheses, Exponential, Multiplication, Division, Addition, Subtraction 
+d) Parentheses, Exponential, Multiplication, Division, Addition, Subtraction
+26.What will be the output of the following Python code snipped if x=1 then X<<2
+a) 4 
+b) 2 
+c) 1 
+d) 8 
+a) 4 
+27.Which of the following is true for variable names in Python? 
+a) underscore and ampersand are the only two special characters allowed 
+b) unlimited length 
+c) all private members must have leading and trailing underscores 
+d) none of the mentioned 
+b) unlimited length 
+28.What are the values of the following Python expressions? 2**(3**2), (2**3)**2, 2**3**2 
+a) 512, 64, 512 
+b) 512, 512, 512 
+c) 64, 512, 64 
+d) 64, 64, 64 
+a) 512, 64, 512  
+29.Which of the following is the truncation division operator in Python? 
+a) | 
+b) // 
+c) / 
+d) % 
+b) //
+30.Which of the following statements is used to create an empty set in Python? 
+a) ( ) 
+b) [ ] 
+c) { } 
+d) set() 
+d) set()
+31.What is the maximum possible length of an identifier in Python? 
+a) 79 characters 
+b) 31 characters 
+c) 63 characters 
+d) none of the mentioned 
+d) none of the mentioned
+32.Which of the following is true for variable names in Python? 
+a) unlimited length 
+b) all private members must have leading and trailing underscores 
+c) underscore and ampersand are the only two special characters allowed 
+d) none of the mentioned 
+a) unlimited length 
+33.Which of the following is an invalid statement? 
+a) abc = 1,000,000 
+b) a b c = 1000 2000 3000 
+c) a,b,c = 1000, 2000, 3000 
+d) a_b_c = 1,000,000 
+b) a b c = 1000 2000 3000
+34.What is the order of precedence in python?i) Parentheses, ii) Exponential, iii) Multiplication, iv. Division, v) Addition, vi) Subtraction 
+a) i,ii,iii,iv,v,vi 
+b) ii,i,iii,iv,v,vi 
+c) ii,i,iv,iii,v,vi 
+d) i,ii,iii,iv,vi,v 
+a) i,ii,iii,iv,v,vi
+35.What is the output of this expression, 3*1**3? 
+a) 27 
+b) 9 
+c) 3 
+d) 1 
+c) 3
+36.Which one of the following has the same precedence level? 
+a) Addition and Subtraction 
+b) Multiplication, Division and Addition 
+c) Multiplication, Division, Addition and Subtraction 
+d) Addition and Multiplication 
+a) Addition and Subtraction
+37.Which one of the following has the highest precedence in the expression? 
+a) Exponential 
+b) Addition 
+c) Multiplication 
+d) Parentheses 
+d) Parentheses
+38.Which of the following operators has its associativity from right to left? 
+a) + 
+b) // 
+c) % 
+d) ** 
+d) **
+39.What will be the value of x in the following Python expression? x = int(43.55+2/2) 
+a) 43 
+b) 44 
+c) 22 
+d) 23 
+b) 44 
+40.What is the value of the following expression? 2+4.00, 2**4.0 
+a) (6.0, 16.0) 
+b) (6.00, 16.00) 
+c) (6, 16) 
+d) (6.00, 16.0) 
+a) (6.0, 16.0)
+41.What is the value of the following expression? 8/4/2, 8/(4/2) 
+a) (1.0, 4.0) 
+b) (1.0, 1.0) 
+c) (4.0. 1.0) 
+d) (4.0, 4.0) 
+a) (1.0, 4.0)
+42.Which among the following list of operators has the highest precedence? +, -, **, %, /, <<, >>, | 
+a) <<, >> 
+b) ** 
+c) | 
+d) % 
+b) **
+43.Which of the following expressions is an example of type conversion? 
+a) 4.0 + float(3) 
+b) 5.3 + 6.3 
+c) 5.0 + 3 
+d) 3 + 7 
+a) 4.0 + float(3) 
+44.What will be the output of the following Python expression? bin(29) 
+a) ‘0b10111’ 
+b) ‘0b11101’ 
+c) ‘0b11111’ 
+d) ‘0b11011’ 
+b) ‘0b11101’ 
+45.What will be the output of the following Python expression? int(1011)? 
+a) 1011 
+b) 11 
+c) 13 
+d) 1101 
+a) 1011 
+46.To find the decimal value of 1111, that is 15, we can use the function: 
+a) int(1111,10) 
+b) int(‘1111’,10) 
+c) int(1111,2) 
+d) int(‘1111’,2) 
+d) int(‘1111’,2)
+47.What is the value of the following Python expression? bin(0x8) 
+a) ‘0bx1000’ 
+b) 8 
+c) 1000 
+d) ‘0b1000’ 
+d) ‘0b1000’
+48.The one’s complement of 110010101 is: 
+a) 001101010 
+b) 110010101 
+c) 001101011 
+d) 110010100 
+a) 001101010
+49.Bitwise _________ gives 1 if either of the bits is 1 and 0 when both of the bits are 1. 
+a) OR 
+b) AND 
+c) XOR 
+d) NOT 
+c) XOR
+50.What is the two’s complement of -44? 
+a) 1011011 
+b) 11010100 
+c) 11101011 
+d) 10110011 
+b) 11010100
+51.What will be the output of the following Python code snippet? ['hello', 'morning'][bool('')] 
+a) error 
+b) no output 
+c) hello 
+d) morning 
+c) hello
+52.Which of the following statement prints hello\example\test.txt? 
+a) print(“hello\example\test.txt”) 
+b) print(“hello\\example\\test.txt”) 
+c) print(“hello\”example\”test.txt”) 
+d) print(“hello”\example”\test.txt”) 
+b) print(“hello\\example\\test.txt”)
+53.What will be the output of the “hello” +1+2+3? 
+a) hello123 
+b) hello 
+c) Error 
+d) hello6 
+c) Error
+54.What is the output when we execute list(“hello”)? 
+a) [‘h’, ‘e’, ‘l’, ‘l’, ‘o’] 
+b) [‘hello’] 
+c) [‘llo’] 
+d) [‘olleh’] 
+a) [‘h’, ‘e’, ‘l’, ‘l’, ‘o’]
+55.Which of these about a frozenset is not true? 
+a) Mutable data type 
+b) Allows duplicate values 
+c) Data type with unordered values 
+d) Immutable data type 
+a) Mutable data type
+56.What is the syntax of the following Python code? >>> a=frozenset(set([5,6,7])) then >>> a 
+a) {5,6,7} 
+b) frozenset({5,6,7}) 
+c) Error, not possible to convert set into frozenset 
+d) Syntax error 
+b) frozenset({5,6,7})
+57.Is the following Python code valid? >>> a=frozenset([5,6,7]) than >>> a and >>> a.add(5) is
+a) Yes, now a is {5,5,6,7} 
+b) No, frozen set is immutable 
+c) No, invalid syntax for add method 
+d) Yes, now a is {5,6,7} 
+b) No, frozen set is immutable
+58.What will be the output of the following Python code? if >>> a={1,2,3} and >>> b=frozenset([3,4,5]) then >>> a-b is 
+a) {1,2} 
+b) Error as difference between a set and frozenset can’t be found out 
+c) Error as unsupported operand type for set data type 
+d) frozenset({1,2}) 
+a) {1,2}
+59.Is Python code compiled or interpreted? 
+a) Python code is only compiled 
+b) Python code is both compiled and interpreted 
+c) Python code is only interpreted 
+d) Python code is neither compiled nor interpreted 
+b) Python code is both compiled and interpreted
+60.Which data type is not a core data type?
+a) float
+b) int
+c) Number
+d) Complex
+c) Number
+61.Find out the value of float("0B1111")
+a) 15.0
+b) 15
+c) Value Error
+d) None Of above
+c) Value Error
+62.if range(20,10,-2) then we can find value of it's
+a) 20,18,16,14,12
+b) 12,14,16,18,20
+c) Error
+d) None of above
+a) 20,18,16,14,12
+63.Set and frozenset which statement is true
+a) Set is Mutable and frozenset is immutable
+b) frozenset is Mutable and set is immutable
+c) Both Mutable
+d) Both Immutable
+a) Set is Mutable and frozenset is immutable
+64.find out value of >>>not 50 or 44 and 60 and ‘Python’
+a) True
+b) 60
+c) Python
+d) False
+c) Python
+65.print(6 * 3 / 4 ** 2 // 5 – 8 )
+(a) -10
+(b) 8.0
+(c) 10.0
+(d) -8.0
+(d) -8.0
+66.What will be the output of the following Python expression? print(4.00/(2.0+2.0))
+a) Error
+b) 1.0
+c) 1.00
+d) 1
+b) 1.0
+67.What will be the output of the following Python expression? 24//6%3, 24//4//2
+a) (1,3)
+b) (0,3)
+c) (1,0)
+d) (3,1)
+a) (1,3)
+68. Which of the following Boolean expressions is not logically equivalent to the other three?
+a) not(-6<0 or-6>10)
+b) -6>=0 and -6<=10
+c) not(-6<10 or-6==10)
+d) not(-6>10 or-6==10)
+d) not(-6>10 or-6==10)
+69.Which of the following is not the correct syntax for creating a set?
+a) set([[1,2],[3,4]])
+b) set([1,2,2,3,4])
+c) set((1,2,3,4))
+d) {1,2,3,4}
+a) set([[1,2],[3,4]])
+70.Find the output of 5>>1,-5<<1,5>>1,-5<<1
+a) Error
+b) 2,-10,2,-10
+c) 2,-3,10,-10
+d) 2,3,10,10
+b) 2,-10,2,-10

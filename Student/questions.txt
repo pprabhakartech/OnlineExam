@@ -1,0 +1,560 @@
+What does CSS stand for?
+A. Creative Style Sheets
+B. Cascading Style Sheets
+C. Comprehensive Style Sheets
+D. Complete Style Sheets
+B. Cascading Style Sheets
+
+Which attribute is used to specify that an input field must be filled out before submitting the form?
+A) required
+B) validate
+C) check
+D) mandatory
+A) required
+
+Which attribute is used to specify the pattern that an input field's value must match?
+A) pattern
+B) validate
+C) check
+D) format
+A) pattern
+
+Which attribute is used to specify the maximum value allowed for an input field?
+A) max
+B) min
+C) required
+D) pattern
+A) max
+
+Which attribute is used to specify the maximum length of an input field's value?
+A) maxlength
+B) minlength
+C) length
+D) maxchars
+A) maxlength
+
+What if one does not use the doctype in the starting of HTML document?
+a) Browser finds the document in quirky mode
+b) Browser finds a document in standard mode
+c) Browser stops working
+d) Browser crashes after showing the page
+a) Browser finds the document in quirky mode
+
+What does the <article> tag do?
+A) Defines the main content of a page
+B) Defines a paragraph
+C) Defines a section of the document
+D) Defines an image
+A) Defines the main content of a page
+
+Which attribute is used to specify that an input field's value must be a valid email address?
+A) type="email"
+B) pattern="\b[A-Z0-9._%+-]+@[A-Z0-9.-]+.[A-Z]{2,}\b"
+C) validate="email"
+D) email="true"
+A) type="email"
+
+What is the purpose of CSS?
+A. To add interactivity to a web page
+B. To structure the content of a web page
+C. To define the layout and appearance of a web page
+D. To add functionality to a web page
+C. To define the layout and appearance of a web page
+
+What is the syntax for a CSS rule?
+A. selector {property: value;}
+B. property {selector: value;}
+C. value {selector: property;}
+D. selector (property: value);
+A. selector {property: value;}
+
+What does the <nav> tag do?
+A) Defines the main content of a page
+B) Defines the footer of a page
+C) Defines the navigation section of a page
+D) Defines the header section of a page
+C) Defines the navigation section of a page
+
+Which attribute is used with <select> element?
+a) multiple
+b) selected
+c) name
+d) value
+a) multiple
+
+Which HTML attribute is used to link a CSS file to an HTML document?
+A. src
+B. href
+C. link
+D. style
+B. href
+
+What does the <aside> tag do?
+A) Defines the main content of a page
+B) Defines a paragraph
+C) Defines a section of the document
+D) Defines additional information that is related to the main content
+D) Defines additional information that is related to the main content
+
+Which element is used to create multi-line text input?
+a) text
+b) textarea
+c) submit
+d) radio button
+b) textarea
+
+Which attribute is not used for the radio type?
+a) name
+b) value
+c) checked
+d) selected
+d) selected
+
+Which attribute is not used on new forms?
+a) size
+b) text
+c) name
+d) maxlength
+a) size
+
+. week attribute defines ____________
+a) week
+b) year
+c) week and year
+d) week, month and year
+c) week and year
+
+What is the purpose of a CSS selector?
+A. To link a CSS file to an HTML document
+B. To define the layout and appearance of a web page
+C. To target specific HTML elements for styling
+D. To add interactivity to a web page
+C. To target specific HTML elements for styling
+
+Which CSS property is used to set the color of text?
+A. font-size
+B. font-color
+C. color
+D. text-color
+C. color
+
+Which CSS property is used to set the font family of text?
+A. font-family
+B. font-type
+C. typeface
+D. font-style
+A. font-family
+
+Which CSS property is used to set the background color of an element?
+A. color
+B. background-color
+C. text-color
+D. background
+B. background-color
+
+Which CSS property is used to set the height of an element?
+A. height
+B. width
+C. size
+D. dimensions
+A. height
+
+Which CSS property is used to set the margin of an element?
+A. padding
+B. border
+C. margin
+D. spacing
+C. margin
+
+How image attribute works?
+a) Sets an image background
+b) Set an image as submit button
+c) Set an image anywhere on the page
+d) Bring default image to the page
+b) Set an image as submit button
+
+Which CSS unit is relative to the font size of the element?
+A. px
+B. em
+C. rem
+D. vh
+B. em
+
+What is the role of charset attribute? It specifies
+a) a scheme to be used to interpret the value of the content attribute
+b) a name for the metadata
+c) the character encoding for the HTML document
+d) the character decoding for the HTML document
+c) the character encoding for the HTML document
+
+Which CSS unit is relative to the width of the viewport?
+A. px
+B. em
+C. rem
+D. vw
+D. vw
+
+Which attribute defines the file-select field?
+a) file
+b) checkbox
+c) button
+d) text
+a) file
+
+Which CSS unit is commonly used for font sizes?
+A. px
+B. em
+C. rem
+D. pt
+A. px
+
+Which CSS unit is relative to the height of the viewport?
+A. px
+B. em
+C. rem
+D. vh
+D. vh
+
+Which CSS unit is relative to the font size of the root element?
+A. px
+B. em
+C. rem
+D. vw
+C. rem
+
+Which CSS unit is used to specify a percentage of the containing block?
+A. %
+B. px
+C. em
+D. rem
+A. %
+
+This set of HTML Multiple Choice Questions & Answers (MCQs) focuses on “Meta Data”.In which part of the HTML metadata is contained?
+a) body tag
+b) html tag
+c) head tag
+d) title tag
+c) head tag
+
+Which attribute is used for activation of JavaScript?
+a) button
+b) checkbox
+c) url
+d) submit
+a) button
+
+Which CSS unit is used to specify a length relative to the user’s preferred font size?
+A. px
+B. em
+C. rem
+D. ch
+B. em
+
+Which CSS unit is used to specify the width of a character in a font?
+A. px
+B. em
+C. rem
+D. ch
+D. ch
+
+Combining two or more cells in a table on a Web page is called
+(a) merging
+(b) spanning
+(c) combining
+(d) None of these
+(b) spanning
+
+Which CSS unit is used to specify a length based on the x-height of the font?
+A. ex
+B. rem
+C. vw
+D. pt
+A. ex
+
+Which CSS unit is used to specify a range of acceptable sizes?
+A. minmax
+B. clamp
+C. fr
+D. min-content
+B. clamp
+
+The two common attributes of the <img> and the <table> tag are
+(a) src and height
+(b) height and width
+(c) border and src .
+(d) they do not have any common attributes.
+(b) height and width
+
+What is CSS specificity?
+A. A measure of how important a CSS rule is
+B. A measure of how specific a CSS rule is
+C. A measure of how many times a CSS rule is applied
+D. A measure of how long a CSS rule is
+B. A measure of how specific a CSS rule is
+
+Which CSS selector has the highest specificity?
+A. class selector
+B. id selector
+C. tag selector
+D. universal selector
+B. id selector
+
+Which CSS selector has the lowest specificity?
+A. class selector
+B. id selector
+C. tag selector
+D. universal selector
+C. tag selector
+
+What is the formula for calculating CSS specificity?
+A. (a, b, c)
+B. (a, b, c, d)
+C. (a + b + c)
+D. (a * b * c)
+B. (a, b, c, d)
+
+Which of the following has the highest specificity value?
+A. *, *
+B. .class, *
+C. #id, tag
+D. #id, .class
+D. #id, .class
+
+What is the specificity value of a selector with the following components: 1 id, 2 classes, and 1 tag?
+A. 211
+B. 121
+C. 112
+D. 221
+C. 112
+
+What is the specificity value of a selector with the following components: 2 ids, 1 class, and 3 tags?
+A. 3212
+B. 223
+C. 231
+D. 222
+A. 3212
+
+Which of the following selectors has a higher specificity?
+A. #id1 .class1
+B. .class1 #id1
+C. #id1
+D. .class1
+A. #id1 .class1
+
+Which of the following selectors has the highest specificity?
+A. #id1
+B. .class1.class2.class3
+C. #id1 .class1.class2
+D. #id1 .class1
+C. #id1 .class1.class2
+
+What is the specificity value of a selector with the following components: 1 attribute selector, 1 class, and 1 tag?
+A. 111
+B. 112
+C. 121
+D. 211
+D. 211
+
+Which CSS property is used to specify the positioning method?
+A. position
+B. top
+C. left
+D. bottom
+A. position
+
+What are the four possible values for the position property?
+A. static, relative, absolute, fixed
+B. normal, fixed, absolute, relative
+C. static, fixed, relative, sticky
+D. absolute, fixed, sticky, relative
+A. static, relative, absolute, fixed
+
+What is the default value for the position property?
+A. static
+B. relative
+C. absolute
+D. fixed
+A. static
+
+Which positioning value is used to position an element relative to its normal position?
+A. static
+B. relative
+C. absolute
+D. fixed
+B. relative
+
+Which positioning value is used to position an element relative to the nearest positioned ancestor?
+A. static
+B. relative
+C. absolute
+D. fixed
+C. absolute
+
+Which positioning value is used to position an element relative to the browser window?
+A. static
+B. relative
+C. absolute
+D. fixed
+D. fixed
+
+What is the difference between position: absolute and position: relative?
+A. position: absolute removes the element from the normal flow, while position: relative keeps the element in the normal flow.
+B. position: absolute positions the element relative to the nearest positioned ancestor, while position: relative positions the element relative to its normal position.
+C. position: absolute positions the element relative to the browser window, while position: relative positions the element relative to the nearest positioned ancestor.
+D. There is no difference between position: absolute and position: relative.
+B. position: absolute positions the element relative to the nearest positioned ancestor, while position: relative positions the element relative to its normal position.
+
+Which property is used to specify the distance between an absolutely positioned element and its nearest positioned ancestor?
+A. top
+B. left
+C. right
+D. bottom
+A. top
+
+Which property is used to specify the distance between an absolutely positioned element and the right edge of its containing block?
+A. top
+B. left
+C. right
+D. bottom
+C. right
+
+Which property is used to make an element “stick” to a certain position on the screen as the user scrolls?
+A. position
+B. top
+C. left
+D. sticky
+D. sticky
+
+Which CSS property is used to apply transforms to an element?
+A. transform
+B. transition
+C. translate
+D. rotate
+A. transform
+
+Which CSS transform is used to scale an element?
+A. translate
+B. rotate
+C. scale
+D. skew
+C. scale
+
+Which CSS transform is used to rotate an element around its center?
+A. translate
+B. rotate
+C. scale
+D. skew
+B. rotate
+
+Which CSS transform is used to move an element along the x and/or y axis?
+A. translate
+B. rotate
+C. scale
+D. skew
+A. translate
+
+Which CSS transform is used to distort an element along the x and/or y axis?
+A. translate
+B. rotate
+C. scale
+D. skew
+D. skew
+
+Which CSS transform is used to create a 3D effect by moving an element along the z-axis?
+A. translateZ
+B. rotate3D
+C. scale3D
+D. skewZ
+A. translate
+
+Which CSS transform is used to create a 3D effect by rotating an element around the x, y, and/or z axis?
+A. translateZ
+B. rotate3D
+C. scale3D
+D. skewZ
+B. rotate3D
+
+Which CSS transform is used to combine multiple transforms into a single transform?
+A. transform-style
+B. transform-origin
+C. transform-box
+D. transform-function
+D. transform-function
+
+Which CSS property is used to specify the point around which a transform should be applied?
+A. transform-style
+B. transform-origin
+C. transform-box
+D. transform-function
+B. transform-origin
+
+Which CSS property is used to specify whether child elements should be transformed separately from their parent element?
+A. transform-style
+B. transform-origin
+C. transform-box
+D. transform-function
+A. transform-style
+
+What is the recommended way to include CSS in an HTML document?
+a. Inline styles
+b. Internal styles
+c. External stylesheets
+d. All of the above
+c. External stylesheets
+
+Which of the following is a good practice for naming CSS classes?
+a. Using generic names like “box” or “text”
+b. Using long and descriptive names for every class
+c. Using abbreviated names for classes
+d. None of the above
+b. Using long and descriptive names for every class
+
+What is the recommended maximum number of CSS files to include in a web page?
+a. 1
+b. 2
+c. 3
+d. There is no recommended maximum
+d. There is no recommended maximum
+
+Which of the following is a good practice for optimizing CSS performance?
+a. Including all styles in a single CSS file
+b. Using shorthand properties to reduce code
+c. Avoiding the use of vendor prefixes
+d. Using as many !important declarations as needed
+b. Using shorthand properties to reduce code
+
+What is the recommended way to organize CSS properties within a rule?
+a. Alphabetically
+b. Randomly
+c. By type of property (e.g. layout, typography, colors)
+d. By specificity (e.g. global styles first, then specific styles)
+c. By type of property (e.g. layout, typography, colors)
+
+Which of the following is a good practice for responsive design using CSS?
+a. Using fixed widths for all elements
+b. Using relative units (e.g. em, rem, %) for all measurements
+c. Setting a fixed width for the body element and scaling other elements proportionally
+d. Using a separate stylesheet for each screen size
+b. Using relative units (e.g. em, rem, %) for all measurements
+
+How should CSS selectors be structured for maximum performance?
+a. Using complex selectors with many levels of specificity
+b. Using ID selectors wherever possible
+c. Using class selectors whenever possible
+d. Using as few selectors as possible, and avoiding unnecessary levels of nesting
+d. Using as few selectors as possible, and avoiding unnecessary levels of nesting
+
+Which of the following is a good practice for cross-browser compatibility in CSS?
+a. Using vendor prefixes for all properties
+b. Avoiding the use of vendor prefixes
+c. Using CSS hacks to target specific browsers
+d. Only including styles that are supported by all major browsers
+b. Avoiding the use of vendor prefixes
+
+What is the recommended way to include web fonts in CSS?
+a. Using the tag in HTML
+b. Using @import statements in CSS
+c. Using the font-face rule in CSS
+d. Web fonts cannot be included in CSS
+c. Using the font-face rule in CSS
+

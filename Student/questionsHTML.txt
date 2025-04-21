@@ -1,0 +1,741 @@
+Who developed HTML?
+A. Bill Gates
+B. Tim Berners-Lee
+C. Steve Jobs
+D. Mark Zuckerberg
+B. Tim Berners-Lee
+
+What is the purpose of HTML tags?
+A. To create headings in a webpage
+B. To create links between webpages
+C. To structure and format content in a webpage
+D. To create images in a webpage
+C. To structure and format content in a webpage
+
+What is the difference between HTML and HTML5?
+A. HTML5 has new elements and attributes that were not present in HTML
+B. HTML5 is a completely new language
+C. HTML5 has better security features than HTML
+D. HTML and HTML5 are the same thing
+A. HTML5 has new elements and attributes that were not present in HTML
+
+When was the first version of HTML released?
+A. 1989
+B. 1991
+C. 1993
+D. 1995
+B. 1991
+
+Which version of HTML introduced the &lt;nav&gt; and &lt;article&gt; tags?
+A. HTML 4.0
+B. HTML 5.0
+C. HTML 6.0
+D. HTML 7.0
+B. HTML 5.0
+
+Which version of HTML is the current standard?
+A. HTML 4.0
+B. HTML 5.0
+C. HTML 3.2
+D. HTML 2.0
+B. HTML 5.0
+
+What is the purpose of the &lt;meta&gt; tag in HTML?
+A. To define the title of the web page
+B. To define the content of the web page
+C. To provide additional information about the web page
+D. To define the structure of the web page
+C. To provide additional information about the web page
+
+HTML is a 
+(a) package
+(b) software
+(c) markup language
+(d) None of these
+(c) markup language
+
+HTML tags are enclosed in
+(a) curly brackets
+(b) square brackets
+(c) double quotes
+(d) angular brackets
+(d) angular brackets
+
+Which of the following tag identifies the document as an HTML document?
+(a) &lt;HTML&gt;
+(b) &lt;HEAD&gt;
+(c) &lt;BODY&gt;
+(d) &lt;P&gt;
+(a) &lt;HTML&gt;
+
+Container elements in HTML require      
+(a) starting tag
+(b) ending tag
+(c) starting and ending tags
+(d) None of the above
+(c) starting and ending tags
+
+HTML tags are
+(a) in uppercase
+(b) case sensitive
+(c) in lowercase
+(d) not case sensitive
+(d) not case sensitive
+
+Which type of tags used by HTML?
+(a) tags only for image
+(b) user defined tags
+(c) tags only for linking
+(d) fixed tags defined by the language
+(d) fixed tags defined by the language
+
+Which program do you need to write HTML code?
+(a) Spreadsheet
+(b) Access
+(c) Notepad
+(d) None of these
+(c) Notepad
+
+An example of HTML editor is
+(a) Notepad
+(b) Dreamweaver
+(c) Microsoft Frontpage
+(d) All of these
+(d) All of these
+
+To create an HTML page, you need
+(a) text editor
+(b) Web browser
+(c) Both (a) and (b)
+(d) None of these
+(c) Both (a) and (b)
+
+Tags and text that do not display directly on the page afe placed in
+(a) body
+(b) table
+(c) head
+(d) title
+(c) head
+
+A Web page normally consists of
+(a) head and body
+(b) top and bottom
+(c) body and font
+(d) body and title
+(a) head and body
+
+Which section is used for text and tags that are shown directly on your Web pages?
+(a) Meta
+(b) Head
+(c) Body
+(d) Table
+(c) Body
+
+Where do you place the &lt;TITLE&gt; tag in a HTML?
+(a) BODY
+(b) HEAD
+(c) TITLE
+(d) FONT
+(b) HEAD
+
+Which attribute is not supported by a &lt;BODY&gt; tag? 
+(a) bgcolor
+(b) size
+(c) text
+(d) link
+(b) size
+
+What will happen if the background image is smaller than the browser’s window?
+(a) It will leave a blank space at the bottom of your page
+(b) It will be repeated
+(c) It will be stretched
+(d) It will not be displayed
+(b) It will be repeated
+
+Why should you specify a background color, if you are using an image for the actual background of your page?
+(a) So the text shows up better
+(b) The background color will be shown until the image loads
+(c) In case the image does not fit right
+(d) None of the above
+(b) The background color will be shown until the image loads
+
+Which attribute of &lt;BODY&gt; tag specifies the color of visited links in a document?
+(a) vlink
+(b) alink
+(c) link
+(d) None of these
+(a) vlink
+
+Choose the correct HTML tag for the largest heading.
+(a) &lt;H2&gt;
+(b) &lt;H4&gt;
+(c) &lt;H6&gt;
+(d) &lt;H1&gt;
+(d) &lt;H1&gt;
+
+Which of the following will give smallest size of the text? 
+(a) &lt;H3&gt;
+(b) &lt;H6&gt;
+(c) &lt;H2&gt;
+(d) &lt;H4&gt;
+(b) &lt;H6&gt;
+
+In a Web page, you can place
+(a) 2 levels of headings
+(b) 6 levels of headings
+(c) 4 levels of headings
+(d) 7 levels of headings
+(b) 6 levels of headings
+
+The default alignment for paragraph is
+(a) left
+(b) right
+(c) center
+(d) justified
+(a) left
+
+Which of the following HTML container tags do you apply to text for formatting the text as a paragraph?
+(a) &lt;PARAGRAPH&gt; ……. c/PARAGRAPH&gt;
+(b) &lt;PARA&gt; ………. &lt;/PARA&gt;
+(c) &lt;P&gt; ……… &lt;/P&gt;
+(d) None of the above
+(c) &lt;P&gt; ……… &lt;/P&gt;
+
+Which of the following is not a container element? 
+(a) P
+(b) B
+(c) OL
+(d) HR
+(d) HR
+
+The style element holds the document for setting
+(a) font, color and alignment
+(b) font, color, alignment and border
+(c) color, alignment and border
+(d) None of the above
+(b) font, color, alignment and border
+
+The tags used for specifying the style in HTML are (i) &lt;B&gt; (ii) &lt;I&gt; (iii) &lt;M&gt; (iv) &lt;L&gt; Choose the correct one
+(a) (i) and (ii)
+(b) (i) and (iii)
+(c) (ii) and (iv)
+(d) (i), (ii) and (iii)
+(a) (i) and (ii)
+
+Which of the following tag is used to make a list that lists the items with numbers?
+(a) &lt;DL&gt;
+(b) &lt;UL&gt;
+(c) &lt;OL&gt;
+(d) None of these
+(c) &lt;OL&gt;
+
+Which of the following is not HTML list? 
+(a) Ordered
+(b) Unordered
+(c) Definition
+(d) Detailed
+(d) Detailed
+
+In an unordered list, it is necessary to enclose each item in 
+(a) &lt;LI&gt; tag
+(b) &lt;UL&gt; tag
+(c) &lt;I&gt; tag
+(d) &lt;OL&gt; tag
+(a) &lt;LI&gt; tag
+
+Which option do you have while making bulleted lists?
+(a) Disc, circle, square
+(b) Square, polygon
+(c) Disc, circle, rectangle
+(d) Disc, oval, polygon
+(a) Disc, circle, square
+
+Which one of the following list type that will create a bulleted list? 
+(a) Unordered
+(b) Ordered
+(c) Definition
+(d) All of these
+(a) Unordered
+
+Which of the following will produce a solid circle bullet when given as value of type with &lt;UL&gt;?
+(a) Circle
+(b) Disc
+(c) Square
+(d) Rectangle
+(b) Disc
+
+To create a square bulleted list, use
+(a) &lt;UL type=”circle”&gt;
+(b) &lt;OL type= “square”&gt;
+(c) &lt;ULtype=”square”&gt;
+(d) &lt;UL start= “square”&gt;
+(c) &lt;ULtype=”square”&gt;
+
+In an ordered list, each item cannot be preceded with 
+(a) Counting numbers
+(b) Arabic numbers
+(c) Roman numerals
+(d) Bullets
+(d) Bullets
+
+To create a numbered list with A, B, … use
+(a) &lt;OL type=”A”&gt;
+(b) &lt;OL start=”A”&gt;
+(c) &lt;OL begin=”A”&gt;
+(d) &lt;OL starts=“a”&gt;
+(a) &lt;OL type=”A”&gt;
+
+To start a list with number 3, we should write 
+(a) &lt;OL start=”3″&gt;
+(b) &lt;OLtype=”3″&gt;
+(c) &lt;OL value=”3″&gt;
+(d) All of these
+(a) &lt;OL start=”3″&gt;
+
+To start a list using circles, use
+(a) &lt;UL type=”round”&gt;
+(b) &lt;OL start=”l”&gt;
+(c) &lt;UL =”circle”&gt;
+(d) &lt;UL type =”circle”&gt;
+(d) &lt;UL type =”circle”&gt;
+
+To start a numbered list with regular numerals, use
+(a) &lt;OL type=”A”&gt;
+(b) &lt;OL type=”r”&gt;
+(c) &lt;OL type=”r”&gt;
+(d) &lt;OL type=”u”&gt;
+(b) &lt;OL type=”r”&gt;
+
+If you want to make a list of items in the form of terms and their descriptions, then you can create a …………. list.
+(a) ordered
+(b) unordered
+(c) definition
+(d) nested
+(c) definition
+
+Web browsers display images in the following format
+(a) XBM
+(b) JPEG
+(c) GIF
+(d) All of these
+(d) All of these
+
+Which tag is used to insert an image in Web page?
+(a) &lt;a&gt;
+(b) &lt;table&gt;
+(c) &lt;img&gt;
+(d) &lt;p&gt;
+(c) &lt;img&gt;
+
+The correct HTML code for inserting an image is 
+(a) &lt;img href=”image.gif”&gt;
+(b) &lt;img&gt; image.gif&lt;/gif&gt;
+(c) &lt;img src = “image.gif”&gt;
+(d) &lt;image src = “image.gif” &gt;
+(c) &lt;img src = “image.gif”&gt;
+
+src attribute used with &lt;img&gt; tag stands for 
+(a) screen 
+(b) screen resolution count
+(c) source 
+(d) structure
+(c) source
+
+…………. attribute is used to specify the location of an image file.
+(a) alt
+(b) src
+(c) align
+(d) name
+(b) src
+
+The text specified in the alt attribute is displayed as tooltip in
+(a) Internet Explorer
+(b) Google Chrome
+(c) Both (a) and (b)
+(d) None of these
+(a) Internet Explorer
+
+The alternate text of an image can be displayed by using attribute of the &lt;img&gt; tag.
+(a) src 
+(b) alt
+(c) align 
+(d) None of these
+(b) alt
+
+alt attribute allows 
+(a) addition of an alternate hyperlink
+(b) addition of a border to image
+(c) use of an alternative image in place of the specified image
+(d) addition of alternative text about an image
+(d) addition of alternative text about an image
+
+The default alignment of images, that are inserted in Web page, is
+(a) left
+(b) right
+(c) inline with text
+(d) middle
+(c) inline with text
+
+Which is not a valid value in the align attribute of &lt;img&gt; tag? 
+(a) top
+(b) center
+(c) bottom
+(d) right
+(b) center
+
+Why is it important to specify width and height attribute in &lt;img&gt; tag? 
+(a) To ensure that image is not copied
+(b) The image will not render without these
+(c) To stop the image from loading
+(d) Helps the browser to load the Web page faster
+(d) Helps the browser to load the Web page faster
+
+When creating a Web document, which unit is used to express an image’s height and width?
+(a) Centimetres
+(b) Pixels
+(c) Dots per inch
+(d) Inches
+(b) Pixels
+
+The &lt;a&gt; tag is
+(a) a container tag
+(b) an empty tag
+(c) a closing tag
+(d) None of these
+(a) a container tag
+
+. ………… is the default color of a hyperlink.
+(a) Red
+(b) Blue
+(c) Green
+(d) Black
+(b) Blue
+
+The tag used in HTML to link a Web page with other Web page is 
+(a) &lt;a&gt; 
+(b) &lt;h&gt; 
+(c) &lt;u&gt; 
+(d) &lt;l&gt;
+(a) &lt;a&gt;
+
+Which tag tells, where a link starts? 
+(a) &lt;1&gt; 
+(b) &lt;start&gt;
+(c) &lt;a&gt; 
+(d) None of these
+(c) &lt;a&gt; 
+
+Which command should be use to link a page with HTML page? 
+(a) &lt;a link = “page.htm” &gt; &lt;/a&gt;
+(b) &lt;a href = “page.htm”&gt;page&lt;/a&gt;
+(c) &lt;a connect = “page.htm”&gt;&lt;/a&gt;
+(d) &lt;a attach = “page.htm”&gt;&lt;/a&gt;
+(b) &lt;a href = “page.htm”&gt;page&lt;/a&gt;
+
+With which code you .can make an image works as link? 
+(a) &lt;a href = “URL”&gt;Text&lt;/a&gt;
+(b) &lt;a href=”ABC.html”&gt;&lt;img src =”graphic.gif”&gt;Click Here&lt;/a&gt;
+(c) &lt;a ref=mailto:&lt;img src = graphic.gif&gt;Click Here&lt;/a&gt;
+(d) None of the above
+(b) &lt;a href=”ABC.html”&gt;&lt;img src =”graphic.gif”&gt;Click Here&lt;/a&gt;
+
+To create a hyperlinked image
+(a) the image tag should be within anchor tag
+(b) the anchor tag should be within image tag
+(c) the image tag should be before the anchor tag
+(d) the image tag should be after the anchor tag
+(a) the image tag should be within anchor tag
+
+For internal linking, the section names are provided by attribute of &lt;a&gt; tag.
+(a) title
+(b) href
+(c) name
+(d) None of these
+(c) name
+
+Is it possible to link within the current page?
+(a) No
+(b) Only in framesets
+(c) Yes
+(d) None of these
+(c) Yes
+
+………. attribute of the &lt;a&gt; tag is used to name a section in a Web page to create an internal link.
+(a) href
+(b) name
+(c) align
+(d) link
+(b) name
+
+. …………….. attribute is used to set the color of a link while it is active.
+(a) vlink
+(b) alink
+(c) Both(a) and (b)
+(d) None of these
+(b) alink
+
+The attribute which is used to send E-mails through a Website.
+(a) tomail
+(b) mailto
+(c) Both(a) and (b)
+(d) None of these
+(b) mailto
+
+Choose the correct syntax to create an E-mail link. 
+(a) &lt;a href = “abc@xyz.com”&gt;
+(b) &lt;a href = “mailto:abc@xyz.com”&gt;
+(c) email = “abc@xyz.com”&gt;
+(d) &lt;amail = “abc@xyz.com”&gt;
+(b) &lt;a href = “mailto:abc@xyz.com”&gt;
+
+To display (X+Y)2, correct HTML code is          
+(a) &lt;sub&gt;(X+Y)2&lt;/sub&gt;
+(b) X+Y&lt; sup &gt; 2 &lt;/sup &gt;
+(c) (X+Y)&lt;sup&gt;2&lt;/sup&gt;
+(d) &lt;sup&gt;(X +Y)2&lt;/sup&gt;
+(c) (X+Y)&lt;sup&gt;2&lt;/sup&gt;
+
+Which of these tags belong to table? 
+(a) &lt;thead&gt;,&lt;body&gt;,&lt;tr&gt;
+(b) &lt;table&gt;,&lt;head&gt;,&lt;tfoot&gt;
+(c) &lt;table&gt;,&lt;tr&gt;,&lt;td&gt;
+(d) &lt;table&gt;,&lt;tr&gt;,&lt;tt&gt;
+(c) &lt;table&gt;,&lt;tr&gt;,&lt;td&gt;
+
+Which of the following tags gives a caption to the table?
+(a) &lt; caption &gt;
+(b) &lt; summary &gt;
+(c) &lt; frame &gt;
+(d) None of these
+(a) &lt; caption &gt;
+
+Which of the following is used to specify the beginning of a table’s row?
+(a) &lt;table&gt;
+(b) &lt;tr&gt;
+(c) &lt;row&gt;
+(d) &lt;begin&gt;
+(b) &lt;tr&gt;
+
+HTML tag for row is
+(a) &lt;colspan&gt;
+(b) &lt;tr&gt;
+(c) &lt;rowspan&gt;
+(d) &lt;td&gt;
+(b) &lt;tr&gt;
+
+Which tag is used to add columns in the tables?
+(a) &lt;colspan&gt;
+(b) &lt;td&gt;
+(c) &lt;tr&gt;
+(d) None of these
+(b) &lt;td&gt;
+
+The tag is used to specify the individual table data in a table.
+(a) &lt;tr&gt;
+(b) &lt;td&gt;
+(c) &lt;th&gt;
+(d)&lt;table&gt;
+(b) &lt;td&gt;
+
+In order to add border to a table, border attribute is specified in which tag?
+(a) &lt;th&gt;
+(b) &lt;table&gt;
+(c) &lt;td&gt;
+(d) &lt;tr&gt;
+(b) &lt;table&gt;
+
+The attribute used to set the border color of a table is
+(a) border
+(b) bordercolor
+(c) color
+(d) border color
+(b) bordercolor
+
+The frame attribute contains types of values.
+(a) 9
+(b) 3
+(c) 6
+(d) 4
+(a) 9
+
+Which of the following is an attribute of &lt; table &gt; tag?
+(a) src
+(b) cellpadding
+(c) link
+(d) bold
+(b) cellpadding
+
+Which one of the following is not an option for aligning data in a table?
+(a) justify
+(b) right
+(c) left
+(d) center
+(a) justify
+
+Which attribute of the &lt; table &gt; tag is used to set an image in the background of a table?
+(a) bgcolor
+(b) background
+(c) frame
+(d) rules
+(b) background
+
+The attribute used to specify the background color of a table is
+(a) color
+(b) bgtable
+(c) backcolor
+(d) bgcolor
+(d) bgcolor
+
+The two common attributes of the &lt;img&gt; and the &lt;table&gt; tag are
+(a) src and height
+(b) height and width
+(c) border and src .
+(d) they do not have any common attributes.
+(b) height and width
+
+border, frame, cellspacing, cellpadding, align are the attributes of
+(a) &lt;body&gt; tag
+(b) &lt;img&gt; tag
+(c) &lt;table&gt; tag
+(d) None of these
+(c) &lt;table&gt; tag
+
+Which of the following is not an attribute of &lt; table &gt; tag?
+(a) border
+(b) background
+(c) bgcolor
+(d) src
+(d) src
+
+In the &lt;td&gt; tag, td stands for
+(a) Table Data
+(b) Table Time and Date
+(c) Table Date
+(d) None of these
+(a) Table Data
+
+What is the correct HTML code to left align the content inside a table cell?
+(a) &lt;td valign = “left”&gt;
+(b) &lt;td align = “left”&gt;
+(c) &lt;td left align &gt;
+(d) &lt;td left&gt;
+(b) &lt;td align = “left”&gt;
+
+Choose the correct HTML code to right align the content inside a table cell.
+(a) &lt;td align = “right” &gt;
+(b) &lt;td valign = “right” &gt;
+(c) &lt;td rightalign&gt;
+(d) &lt;td right = “align” &gt;
+(a) &lt;td align = “right” &gt;
+
+Combining two or more cells in a table on a Web page is called
+(a) merging
+(b) spanning
+(c) combining
+(d) None of these
+(b) spanning
+
+Which attribute tells, how many rows a cell should span?
+(a) colspan = n
+(b) rowspan = n
+(c) Both (a) and (b)
+(d) None of these
+(b) rowspan = n
+
+rowspan = n can be added to only which tag?
+(a) &lt;hr&gt;
+(b) &lt;table&gt;
+(c) &lt;td&gt;
+(d) &lt;tr&gt;
+(c) &lt;td&gt;
+
+Which attribute of &lt;td&gt; tag is used to merge two or more columns to form a single column?
+(a) colspan
+(b) cellspacing
+(c) cellpadding
+(d) rowspan
+(a) colspan
+
+colspan = n can be added to tag.
+(a) &lt;hr&gt;
+(b) &lt; table &gt;
+(c) &lt;td&gt;
+(d) &lt;tr&gt;
+(c) &lt;td&gt;
+
+The attribute helps to align data vertical in a single cell.
+(a) align
+(b) valign
+(c) halig
+(d) Both (b) and (c)
+(b) valign
+
+In the &lt;th&gt; tag, th stands for
+(a) Table Heading
+(b) Total Heading
+(c) Table Header
+(d) All of the above
+(c) Table Header
+
+This set of HTML Multiple Choice Questions & Answers (MCQs) focuses on “Meta Data”.In which part of the HTML metadata is contained?
+a) body tag
+b) html tag
+c) head tag
+d) title tag
+c) head tag
+
+Which of the following is not a function of robots meta tag?
+a) noindex
+b) nofollow
+c) norepeat
+d) noarchive
+c) norepeat
+
+What is the role of charset attribute? It specifies
+a) a scheme to be used to interpret the value of the content attribute
+b) a name for the metadata
+c) the character encoding for the HTML document
+d) the character decoding for the HTML document
+c) the character encoding for the HTML document
+
+__________ prevents the page from being indexed altogether.
+a) noarchive
+b) nofollow
+c) noindex
+d) novalue
+c) noindex
+
+Which of the following is not supported in HTML5?
+a) scheme
+b) content
+c) http-equiv
+d) name
+a) scheme
+
+___________ prevents search engines from following links inside the page.
+a) noarchive
+b) nofollow
+c) noindex
+d) novalue
+b) nofollow
+
+Different meta tags are defined by changing the __________ attribute to a valid value.
+a) scheme
+b) content
+c) http-equiv
+d) name
+d) name
+
+__________ prevents search engines from showing a cached link for the page.
+a) nobot
+b) nofollow
+c) noarchive
+d) nosearch
+c) noarchive
+
+The value of the ___________ attribute refers to the time interval in seconds before the refresh is performed.
+a) scheme
+b) content
+c) http-equiv
+d) name
+b) content
